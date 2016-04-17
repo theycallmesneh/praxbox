@@ -1,0 +1,4 @@
+lex inpost.l
+yacc -d inpost.y
+gcc lex.yy.c y.tab.c -ll
+./a.out
