@@ -1,0 +1,7 @@
+---------------Macro Definition Table----------------
+Index	|	Macro Definition
+1	|	INCR &ARG1,&ARG2,&ARG3
+2	|	A 1,#1
+3	|	A 2,#2
+4	|	A 3,#3
+5	|	MEND

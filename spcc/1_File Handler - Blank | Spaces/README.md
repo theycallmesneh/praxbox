@@ -1,2 +1,0 @@
-# praxbox
-STATUS: WORKING

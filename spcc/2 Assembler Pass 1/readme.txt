@@ -1,0 +1,1 @@
+create three txt files named as ST.txt,POT.txt,MOT.txt
