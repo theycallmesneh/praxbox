@@ -1,0 +1,4 @@
+gcc -c avg.c -o avg.o
+ar rcs libavg.a avg.o
+gcc -static main.c -L. -lavg -o main
+./main
