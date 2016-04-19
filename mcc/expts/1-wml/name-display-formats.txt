@@ -1,0 +1,17 @@
+(i) Perform WML Deck to Display your Name In Different Format. Insert your name in the place of ABC PQR.
+
+<?xml version="1.0"?>
+<!DOCTYPEwml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card title="Formatting"><p>ABC PQR <br/>
+<em>ABC PQR </em><br/>
+<strong>ABC PQR </strong><br/>
+<b>ABC PQR </b><br/>
+<i>ABC PQR </i><br/>
+<u>ABC PQR </u><br/>
+<big>ABC PQR </big><br/>
+<small>ABC PQR </small><br/>
+</p>
+</card>
+</wml>

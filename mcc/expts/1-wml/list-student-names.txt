@@ -1,0 +1,30 @@
+(iii) Perform WML Deck to Display Name of Students in list when You select any student from the list it opens another cards to show deep information about students.
+
+<?xml version="1.0"?>
+<!DOCTYPEwml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card id="card1" title="School">
+<do type="accept" label="Answer"><go href="#card2"/>
+</do>
+<p>
+<select name="name">
+<option value="ABC PQR">ABC PQR </option>
+<option value="GHM">GHM</option>
+<option value="GBS">GBS</option>
+</select>
+</p>
+</card>
+<card id="card2" title="Answer">
+<p>
+You selected: $(name)
+<table columns="3">
+<tr>
+<td>001</td>
+<td>ABC PQR</td>
+<td>M.E. COMPUTER</td>
+</tr>
+</table>
+</p>
+</card>
+</wml>

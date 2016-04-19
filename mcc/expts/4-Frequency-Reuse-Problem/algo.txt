@@ -1,0 +1,5 @@
+Algorithm: 
+1. Take two values i and j
+2. N using i(square) + ij+ j(square)
+3. Assume available frequency and evaluate how many frequencies per cell.
+4.Assume total number of channels to find channels per cluster

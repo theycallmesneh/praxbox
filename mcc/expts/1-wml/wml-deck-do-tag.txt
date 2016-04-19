@@ -1,0 +1,22 @@
+(ii) Perform WML Deck to show use of do tag.
+
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.WAPforum.org/DTD/wml_1.1.xml">
+<wml>
+<template>
+<do type="prev" label="back">
+<prev />
+</do>
+</template>
+<card id="card1" title="Card 1"><p>
+<a href="#card2">Go to Card 2</a>
+</p>
+</card>
+<card id="card2" title="Card 2">
+<p>
+<do type="prev">
+<noop />
+</do> ABC PQR </p>
+</card>
+</wml>
