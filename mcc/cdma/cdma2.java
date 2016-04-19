@@ -1,5 +1,5 @@
 import java.util.*;
-class cdma{
+class cdma2{
 public static void main(String[] args) {
 //input a = 1 1 -1 -1 1 1 -1
 //input b = -1 1 1 -1 1 1 -1
