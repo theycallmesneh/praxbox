@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.2//EN"
+"wml12.dtd">
+
+<wml>
+
+<card title="Mobile Specifications">
+<p>
+<table columns="2">
+	<tr>
+	  <td>Processor</td>
+	  <td>ARM v7</td>
+	</tr>
+
+	<tr>
+	  <td>RAM</td>
+	  <td>1 GB</td>
+	</tr>
+
+	<tr>
+	  <td>Storage</td>
+	  <td>16 GB</td>
+	</tr>
+
+	<tr>
+	  <td>Network</td>
+	  <td>2G/3G/4G</td>
+	</tr>
+
+</table>
+</p>
+</card>
+
+</wml>
