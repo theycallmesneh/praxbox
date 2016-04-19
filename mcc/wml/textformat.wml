@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.2//EN"
+"wml12.dtd">
+<wml>
+<card id="style" title="Styles">
+<p>
+:Name: <br/>
+<b> SPCC </b><br/>
+<big> MCC </big><br/>
+<small> DD </small><br/>
+<u> NPL </u><br/>
+</p>
+</card>
+</wml>
